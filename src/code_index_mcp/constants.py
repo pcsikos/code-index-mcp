@@ -19,7 +19,7 @@ SUPPORTED_EXTENSIONS = [
     '.java',                          # Java
     '.c', '.cpp', '.h', '.hpp',       # C/C++
     '.cxx', '.cc', '.hxx', '.hh',     # C++ variants
-    '.cs',                            # C#
+    '.cs', '.csproj', '.props', '.targets', '.sln', '.slnx'                           # C#
     '.go',                            # Go
     '.m', '.mm',                      # Objective-C
     '.rb',                            # Ruby
